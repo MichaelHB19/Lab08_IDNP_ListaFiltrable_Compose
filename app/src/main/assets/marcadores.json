@@ -1,0 +1,30 @@
+[
+  {
+    "x": 130.0,
+    "y": 310.0,
+    "radio": 24.0,
+    "titulo": "Laboratorios",
+    "descripcion": "Área de laboratorios de cómputo"
+  },
+  {
+    "x": 380.0,
+    "y": 310.0,
+    "radio": 24.0,
+    "titulo": "Patio",
+    "descripcion": "Patio circular central de encuentro y circulación"
+  },
+  {
+    "x": 630.0,
+    "y": 310.0,
+    "radio": 24.0,
+    "titulo": "Salón 202",
+    "descripcion": "2da Aula académica equipada con proyector multimedia."
+  },
+  {
+    "x": 850.0,
+    "y": 310.0,
+    "radio": 24.0,
+    "titulo": "Salón 201",
+    "descripcion": "1ra Aula académica para sesiones teóricas"
+  }
+]
